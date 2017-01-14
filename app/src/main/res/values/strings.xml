@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">HelloWorld</string>
+    <string name="text_lucky_num">Your Lucky Number is:</string>
+    <string name="text_lucky_num_square">The square of your Lucky Number is:</string>
+    <string name="button_gen_num">Generate Lucky Number</string>
+    <string name="button_calculate_result">Calculate the square value</string>
+    <string name="button_back">Back</string>
 </resources>
